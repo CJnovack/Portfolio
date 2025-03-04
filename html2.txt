@@ -1,0 +1,12 @@
+<html>
+ <head>
+  <title>Connor Novack - Portfolio</title>
+ </head>
+
+ <body>
+  <h1>This is a page</h1>
+  <p>This is a paragraph</p>
+  <p><a href="about.html">Home</a></p>
+ <body>
+
+<html>
