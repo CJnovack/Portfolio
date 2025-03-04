@@ -1,0 +1,12 @@
+<html>
+	<head>
+		<title>Connor Novack</title>
+	</head>
+	<body>
+		<h1>Big Header</h1>
+		<p>This is paragraph</p>
+		<a href="about.html">About Me</a>
+		<a href="http://linkedin.com/cn">LickedIn</a>
+		<img src="picture.jpg">
+	</body>
+</html>
